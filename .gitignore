@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+.cert
+
+# environment
+dev.js
+
+# production
+/build
